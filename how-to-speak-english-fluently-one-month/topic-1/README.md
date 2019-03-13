@@ -1,4 +1,4 @@
-# Topic 1
+# Topic 1 - What's Wrong Eric?
 
 ## Expressions used in this topic
 
