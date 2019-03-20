@@ -20,4 +20,4 @@
 
 * **call (something) off** - cancel an event (a meeting, a party, a sports event, etc)
 
-* **calme (someone) down** -- relax
+* **calm (someone) down** -- relax
